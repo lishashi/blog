@@ -6,7 +6,7 @@ layout: single
 
 ---
 
-![# Welcome]({{ site.baseurl }}/assets/images/welcome.png)
+![# Welcome]({{ site.baseurl }}/assets/images/welcome.png){: .align-center}
 
 >The gardener does not make a plant grow. The job of a gardener is to create
 optimal conditions for growth. -- Ken Robinson
