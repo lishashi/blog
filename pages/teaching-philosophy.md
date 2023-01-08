@@ -10,11 +10,11 @@ Below are the six main beliefs for my teaching philosophy
 
 The key concept is in bold, and then further explained. Clicking on the key concept will bring you to the page on my site where this is demonstrated via my pedagogy.
 
-# Every student is a talented natural learner who is capable of achieving their potential
+# [Every student is a talented natural learner who is capable of achieving their potential](/pedagogy/students-are-talented-natural-learners/)
 
 When I was doing my placement in a forest school, I was amazed by how capable and competent the children were with their potential. For example, They built their own trail and hideout, they collaborated with each other without being asked, and they solved the power issue in the cabin after a horrible storm. I do not see myself as an all-knowing expert who is responsible for imparting knowledge to students. On the contrary, I view myself as a resource provider and a helper who follows students’ interests and needs. I am committed to designing relevant learning experiences to meet students’ needs and interests scaffolding their learning to the next level.
 
-# Teaching should be focusing on the holistic development of every student
+# [Teaching should be focusing on the holistic development of every student](/pedagogy/holistic-development/)
 
 This Indigenous worldview sets the foundation for students to develop a good relationship with our land and the people around them. It is imperative to focus on the five domains of child development, including physical, emotional, spiritual, and intellectual development. Focusing on only one area of development will prevent students from reaching their full potential and developing a sense of self. The learning environment should be inclusive, comfortable, and responsive. Teachers should create a culturally responsive classroom where students feel they are accepted for who they are and valued for where they come from.  This kind of classroom is full of laughter and smiles as students feel welcomed and comfortable. Teachers are always using positive language, and students are using kind words to each other. In an environment like this, students will feel safe to take risks and not be afraid to make mistakes.
 
