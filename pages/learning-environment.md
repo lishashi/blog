@@ -13,33 +13,33 @@ In all the classrooms I have worked with, I tried my best to ensure all the stud
 
 
 
-![# p](/blog/assets/images/12-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/12-Pedagogy.png)
 
-![# p](/blog/assets/images/13-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/13-Pedagogy.png)
 
-![# p](/blog/assets/images/14-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/14-Pedagogy.png)
 
-![# p](/blog/assets/images/15-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/15-Pedagogy.png)
 
 
 # Story Two: Tadpoles Look for Mom
 
-![# p](/blog/assets/images/16-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/16-Pedagogy.png)
 
-![# p](/blog/assets/images/17-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/17-Pedagogy.png)
 
 I created a reading and calming corner at the end of the hallway with my Assoicate Teacher during my third placement at the Roger Neison Public School. This corner later has been used by the entire school. Whenever there were students needing to take a break from their class, they would come here and enjoy some books and quiet moment.
 
-![# p](/blog/assets/images/18-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/18-Pedagogy.png)
 
-![# p](/blog/assets/images/19-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/19-Pedagogy.png)
 
 What’s more while I was tutoring students with low literacy and reading levels, I noticed that some of the students would be able to recognize more words when they made the words. Then, I created those materials for students to make words and practice the sounds of each letter.
 
-![# p](/blog/assets/images/20-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/20-Pedagogy.png)
 
-![# p](/blog/assets/images/21-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/21-Pedagogy.png)
 
 Additionally, I set the norms of being kind to each other by reading the story How to Fill a Bucket and creating their buckets.
 
-![# p](/blog/assets/images/22-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/22-Pedagogy.png)
