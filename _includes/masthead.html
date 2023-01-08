@@ -12,23 +12,45 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+         {%- for link in site.data.navigation.main -%}
+           {% if link.subtitles != null %}
+
+          <div class="dropdown">
+            <li><button class="dropbtn">{{ link.title }}</button></li>
+  
+            <div class="dropdown-content">
+              {% for subtitle in link.subtitles %}
+              <li>
+                <a href="{{ subtitle.url | relative_url }}"{% if subtitle.description %} title="{{ subtitle.description }}"{% endif %}>{{ subtitle.title }}</a>
+              </li>
+            {% endfor %}
+            </div>
+
+          </div>
+
+           {% else %}
+              <li>
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              </li>
+           {% endif %}
+
           {%- endfor -%}
         </ul>
+        
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
           <i class="fas fa-search"></i>
         </button>
         {% endif %}
+
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
         </button>
+
         <ul class="hidden-links hidden"></ul>
+
       </nav>
     </div>
   </div>

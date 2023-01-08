@@ -1,12 +1,39 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About Me"
+    url: /about-me/
+    subtitles:
+    - title: "My Story"
+      url: /about-me/my-story/
+    - title: "My Resume"
+      url: /about-me/resume/
+  - title: "Teaching Philosophy"
+    url: /teaching-philosophy/
+  - title: "Pedagogy"
+    url: /pedagogy/
+    subtitles:
+    - title: "Students Are Talented Natural Learners"
+      url: /pedagogy/students-are-talented-natural-learners/
+    - title: "Holistic Development"
+      url: /pedagogy/holistic-development/
+    - title: "Learning Environment"
+      url: /pedagogy/learning-environment/
+    - title: "Relationship and belonging matters"
+      url: /pedagogy/relationship-and-belonging-matters/
+    - title: "Learning should be ongoing for both students and teachers"
+      url: /professional-development/
+    - title: "Assessment"
+      url: /pedagogy/assessment/
+  - title: "Leadership & Communities"
+    url: /leadership-and-learning-communities/
+  - title: "Professional Development"
+    url: /professional-development/
+    subtitles:
+    - title: "Overview"
+      url: /professional-development/
+    - title: "Annual Learning Plan"
+      url: /professional-development/annual-learning-plan/
+    - title: "Evaluation Reports From My Practicum"
+      url: /professional-development/evaluation-reports-from-my-practicum/
+    - title: "Certificates"
+      url: /professional-development/certificates/
