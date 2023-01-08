@@ -7,7 +7,7 @@ permalink: /pedagogy/learning-environment/
 
 The learning environment should be inclusive, comfortable, and responsive.
 
-In all the classrooms I have worked with, I tried my best to ensure all the students welcomed and included. For example, I created two bilingual storybooks for a group of students who just came to Canada from China while I was working in the Royal Chachet Montessori School. These two stories are classic fables in China, so most of these students were familiar with them. Reading these two stories with the whole class made those students feel that they were reflected and their culture was important. I also included sensory elements into the stories, such as made the background with different types of materials. I invited students to touch the book while reading it, which helped the students with short attention span focus on listening to the stories.
+In all the classrooms I have worked with, I tried my best to ensure all the students feel welcomed and included. For example, I created two bilingual storybooks for a group of students who just came to Canada from China while I was working in the Royal Chachet Montessori School. These two stories are classic fables in China, so most of these students were familiar with them. Reading these two stories with the whole class made those students feel that they were reflected and their culture was important. I also included sensory elements into the stories, such as made the background with different types of materials. I invited students to touch the book while reading it, which helped the students with short attention span focus on listening to the stories.
 
 # Story One: Mr. Fool Wants to Move the Mountains
 
@@ -40,6 +40,6 @@ What’s more while I was tutoring students with low literacy and reading levels
 
 ![# p]({{ site.baseurl }}/assets/images/21-Pedagogy.png)
 
-Additionally, I set the norms of being kind to each other by reading the story How to Fill a Bucket and creating their buckets.
+Additionally, I set the norms of being kind to each other by reading the story How to Fill a Bucket and having them create their buckets.
 
 ![# p]({{ site.baseurl }}/assets/images/22-Pedagogy.png)

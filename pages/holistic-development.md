@@ -13,7 +13,7 @@ For example, I took the students to the gym to explore different three-dimension
 
 ![# p]({{ site.baseurl }}/assets/images/6-Pedagogy.png)
 
-Students were doing a race with different types of animals. Each of them chose the animal they did their research on and then they needed to do the movement of that certain type of animal in the race. Also during the race, they met a variety of barriers and they needed to answer certain questions to be able to go through the barriers. I designed this activity while we were learning the Science Unit Growth and Changes in Animals for grade two.
+Students were doing a race pretending as different types of animals. Each of them chose the animal they did their research on and then they needed to do the movement of that certain type of animal in the race. Also during the race, they met a variety of barriers and they needed to answer certain questions to be able to go through the barriers. I designed this activity while we were learning the Science Unit Growth and Changes in Animals for grade two.
 
 ![# p]({{ site.baseurl }}/assets/images/7-Pedagogy.png)
 

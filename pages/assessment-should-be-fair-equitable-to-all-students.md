@@ -5,20 +5,19 @@ title: Assessment should be fair and equitable to all students
 permalink: /pedagogy/assessment/
 ---
 
-When it comes to assessment, I created different ways for students to demonstrate their learning. For example, for studnets with low level of writing, I provided students with stickers and art materials to demonstrate their understanding of the different perspectives each character held from the story.
+When it comes to assessment, I created different ways for students to demonstrate their learning. For example, for students with low level of writing, I provided students with stickers and art materials to demonstrate their understanding of the different perspectives each character held from the story.
 
 <object data="{{ site.baseurl }}/assets/files/pedagogy-26.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-
-For students who needed to hear other people’s idea before formulating their own answers, I integrated gallery walk and group activities in my lessons.
+For students who needed to hear other people’s ideas before formulating their own answers, I integrated gallery walk and group activities in my lessons.
 
 ![# p]({{ site.baseurl }}/assets/images/27-Pedagogy.png)
 
-For students with different learning styles, I designed different activities to have them demonstrated them learning. For auditory learners, I had them used puppets they made to demonstrate their undersntanding of the story The Three Little Pigs.
+For students with different learning styles, I designed different activities to have them demonstrate their learning. For auditory learners, I had them used puppets they made to demonstrate their understanding of the story The Three Little Pigs.
 
 ![# p]({{ site.baseurl }}/assets/images/28-Pedagogy.png)
 
-For kinesthetic learners, when teaching patterns in math, I had them use pattern blocks to created given patterns and explained their pattern verbally.
+For kinesthetic learners, when teaching patterns in math, I had them use pattern blocks to create given patterns and explained their patterns verbally.
 
 ![# p]({{ site.baseurl }}/assets/images/29-Pedagogy.png)
 
@@ -29,15 +28,15 @@ For visual learners, while learning different types of food and definition of he
 
 ![# p]({{ site.baseurl }}/assets/images/31-Pedagogy.png)
 
-I ensured fairness is in all three tyeps fo assessments I have been inimplementing in my teaching, including assessment For learning, assessment As learning, and assessment Of learning.
+I ensured fairness in all three types of assessments I implemented in my teaching, including assessment For learning, assessment As learning, and assessment Of learning.
 
-As for assessment For learning, I used anecdotal notes to record what students said and their thinking during group work time.
+As for *assessment For learning, I used anecdotal notes to record what students said and their thinking during group work time.*
 
-Below is an example of my anecdotal notes about one student in my third placement.  I refer to my observation note when I planned lessons for the next day.
+Below is an example of my anecdotal notes about one student in my third placement. I referred to my observation note when I planned lessons for the next day.
 
 ![# p]({{ site.baseurl }}/assets/images/32-Pedagogy.png)
 
-I also tried to provided descriptive feedback to the students when I evaluated their learning through their work.
+I also tried to provide descriptive feedback to the students when I evaluated their learning through their work.
 
 Below is an example of how I used student work about knowing attributes of two-dimensional shapes to plan the next step for the student.
 
@@ -55,13 +54,13 @@ Below is the Peer-Assessment worksheet I designed for students to evaluate their
 
 ![# p]({{ site.baseurl }}/assets/images/35-Pedagogy.png)
 
-As for Assesment Of Learning, I provided clear rubric and tried to make it as fun as possible.
+As for Assessment Of Learning, I provided clear rubric and tried to make it as fun as possible.
 
-Below is a rubric I created for a cumninating task for grade-one student
+Below is a rubric I created for a culminating task for grade-one students.
 
 ![# p]({{ site.baseurl }}/assets/images/36-Pedagogy.png)
 
-I also integrated technology and one-on-one conferencing at the end of Spatial Sense Unit to make judgement about how much students have learned in that unit.
+I also integrated technology and one-on-one conferencing at the end of the Spatial Sense Unit to make judgments about how much students have learned in that unit.
 
 Below is the google form we used at the end of the unit of the 2D and 3D shapes. My AT and I pulled out students to do this assessment during the free-choice time or independent reading time.
 
