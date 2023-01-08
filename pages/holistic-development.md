@@ -3,15 +3,29 @@ layout: single
 title: Holistic Development
 
 permalink: /pedagogy/holistic-development/
+
+gallery1:
+  - url: "/assets/images/5-Pedagogy.png"
+    image_path: "/assets/images/5-Pedagogy.png"
+    alt: ""
+  - url: "/assets/images/6-Pedagogy.png"
+    image_path: "/assets/images/6-Pedagogy.png"
+    alt: ""
+
+gallery2:
+  - url: "/assets/images/8-Pedagogy.png"
+    image_path: /assets/images/8-Pedagogy.png
+    alt: ""
+  - url: "/assets/images/9-Pedagogy.png"
+    image_path: "/assets/images/9-Pedagogy.png"
+    alt: ""
 ---
 
 As I mentioned in my Teaching Philosophy, it is important to see each student as a “whole person”, and teaching should be focusing on the holistic development of each student.
 
 For example, I took the students to the gym to explore different three-dimensional shapes with their bodies while teaching the unit Spacial Sense in Mathematics.
 
-![# p]({{ site.baseurl }}/assets/images/5-Pedagogy.png){: .align-center}
-
-![# p]({{ site.baseurl }}/assets/images/6-Pedagogy.png){: .align-center}
+{% include gallery id="gallery1" layout="half" %}
 
 Students were doing a race pretending as different types of animals. Each of them chose the animal they did their research on and then they needed to do the movement of that certain type of animal in the race. Also during the race, they met a variety of barriers and they needed to answer certain questions to be able to go through the barriers. I designed this activity while we were learning the Science Unit Growth and Changes in Animals for grade two.
 
@@ -23,9 +37,7 @@ Integrating Social-emotional learning into my teaching is in my Annual Learning 
 
 During my first placement in a Kindergarten classroom, I introduced Animal Breathing to the students. We practiced Bear Breathing and Bunny Breathing.  With Grade one, I taught them Five Fingers Breathing, and we practiced it during transition time.
 
-![# p]({{ site.baseurl }}/assets/images/8-Pedagogy.png){: .align-center}
-
-![# p]({{ site.baseurl }}/assets/images/9-Pedagogy.png){: .align-center}
+{% include gallery id="gallery2" layout="half" %}
 
 With older students, we did Snowball Fight as a way to learn how to use writing as a way to express our feelings to others.
 

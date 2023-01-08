@@ -4,6 +4,29 @@ title: Leadership and Learning Communities
 toc: true
 toc_sticky: true
 permalink: /leadership-and-learning-communities/
+
+gallery1:
+  - url: "/assets/images/communities-01.png"
+    image_path: "/assets/images/communities-01.png"
+    alt: ""
+  - url: "/assets/images/communities-02.png"
+    image_path: "/assets/images/communities-02.png"
+    alt: ""
+  - url: "/assets/images/communities-03.png"
+    image_path: "/assets/images/communities-03.png"
+    alt: ""
+  - url: "/assets/images/communities-04.png"
+    image_path: "/assets/images/communities-04.png"
+    alt: ""
+
+gallery2:
+  - url: "/assets/images/communities-06.png"
+    image_path: "/assets/images/communities-06.png"
+    alt: ""
+  - url: "/assets/images/communities-07.png"
+    image_path: "/assets/images/communities-07.png"
+    alt: ""
+
 ---
 
 As an educator, I have the opportunity to get involved with two extra-curricular activities during my practicum at the Kaawaate East City Public School.
@@ -12,13 +35,7 @@ As an educator, I have the opportunity to get involved with two extra-curricular
 
 The pictures below were taken when we were having a discussion about the difficulties and challenges girls or women encountered in life. I initiated a conversation about recognizing our strength as women and taught the whole group to make Friendship Bracelet. Through this hands-on activity, those young women demonstrated their creativity and gained confidence in themselves. The beautiful bracelets showed how amazing they were and how much they cared about each other.
 
-![c1]({{ site.baseurl }}/assets/images/communities-01.png){: .align-center}
-
-![c1]({{ site.baseurl }}/assets/images/communities-02.png){: .align-center}
-
-![c1]({{ site.baseurl }}/assets/images/communities-03.png){: .align-center}
-
-![c1]({{ site.baseurl }}/assets/images/communities-04.png){: .align-center}
+{% include gallery id="gallery1" layout="half" %}
 
 # Volunteering in the ukulele club
 
@@ -31,12 +48,7 @@ Another extracurricular activity I participated in was volunteering in the ukule
 
 Besides extra-curriculum activities, I have been engaging with Indigenous communities.  I went to the Pow Wow celebration at the Curve Lake First Nation Reserve. I have also participated in the Tipi Talks to extend my understanding of indigenous culture and ways of knowing.
 
-![c1]({{ site.baseurl }}/assets/images/communities-06.png){: .align-left}
-
-
-
-
-![c1]({{ site.baseurl }}/assets/images/communities-07.png){: .align-right}
+{% include gallery id="gallery2" layout="half" %}
 
 The first picture was taken while I was at the Pow Wow celebration. I tried the Indigenous Taco there, and it was delicious. The second picture was taken during the Tipi Talk. I enjoyed the cider tea and the bannock while listening to Nicole Bell talking about the Indigenous culture and how they lived in the past.
 

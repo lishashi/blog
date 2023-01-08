@@ -3,6 +3,14 @@ layout: single
 title: Assessment should be fair and equitable to all students
 
 permalink: /pedagogy/assessment-should-be-fair-equitable-to-all-students/
+
+gallery1:
+  - url: "/assets/images/30-Pedagogy.png"
+    image_path: /assets/images/30-Pedagogy.png
+    alt: ""
+  - url: "/assets/images/31-Pedagogy.png"
+    image_path: "/assets/images/31-Pedagogy.png"
+    alt: ""
 ---
 
 When it comes to assessment, I created different ways for students to demonstrate their learning. For example, for students with low level of writing, I provided students with stickers and art materials to demonstrate their understanding of the different perspectives each character held from the story.
@@ -23,10 +31,7 @@ For kinesthetic learners, when teaching patterns in math, I had them use pattern
 
 For visual learners, while learning different types of food and definition of healthy food, I had those students explore different types of food and created a healthy snack with their understanding of food categories and what they learned in the art class.
 
-![# p]({{ site.baseurl }}/assets/images/30-Pedagogy.png){: .align-center}
-
-
-![# p]({{ site.baseurl }}/assets/images/31-Pedagogy.png){: .align-center}
+{% include gallery id="gallery1" layout="half" %}
 
 I ensured fairness in all three types of assessments I implemented in my teaching, including assessment For learning, assessment As learning, and assessment Of learning.
 

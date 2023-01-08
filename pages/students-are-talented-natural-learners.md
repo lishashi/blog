@@ -1,8 +1,16 @@
 ---
 layout: single
 title: Students Are Talented Natural Learners
-
 permalink: /pedagogy/students-are-talented-natural-learners/
+
+
+gallery1:
+  - url: "/assets/images/3-Pedagogy.png"
+    image_path: "/assets/images/3-Pedagogy.png"
+    alt: ""
+  - url: "/assets/images/4-Pedagogy.png"
+    image_path: "/assets/images/4-Pedagogy.png"
+    alt: ""
 ---
 
 I believe in students’ full potential and ability to complete tasks requiring high-order thinking.
@@ -17,6 +25,4 @@ As Rita Pierson said, “every kid needs a champion”, I have been seeing mysel
 
 ![# p]({{ site.baseurl }}/assets/images/2-Pedagogy.png){: .align-center}
 
-![# p]({{ site.baseurl }}/assets/images/3-Pedagogy.png){: .align-center}
-
-![# p]({{ site.baseurl }}/assets/images/4-Pedagogy.png){: .align-center}
+{% include gallery id="gallery1" layout="half" %}
