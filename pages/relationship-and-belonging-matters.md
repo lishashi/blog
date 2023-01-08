@@ -9,13 +9,13 @@ I believe that building human connection is the top priority as a teacher. As Ja
 
 Below is a board I created to show the students who I am. I let them tell me two things about themselves after I showed them the board about me.
 
-![# p]({{ site.baseurl }}/assets/images/23-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/23-Pedagogy.png){: .align-center}
 
 In order to build a good relationship with students, I checked in with students’ feelings regularly.
 
 Below is a morning check-in activity I set up while I was teaching in a kindergarten classroom. I integrated arts into this check-in activity. Students used the sticks and paints to draw their feelings on the plate filling up with white glue.
 
-![# p]({{ site.baseurl }}/assets/images/24-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/24-Pedagogy.png){: .align-center}
 
 Celebrating students’ strengths and every small step is also important for building a trusting relationship between teachers and students. In this way, students feel confident about themselves and believe that the teacher cares about them. I created a Math wall to display students’ math work and process while teaching 2D and 3D shapes in the grade-one classroom.
 
@@ -23,4 +23,4 @@ Celebrating students’ strengths and every small step is also important for bui
 
 Every student loves small surprises, and I made every student a Christmas bag before I left the classroom during my third placement.
 
-![# p]({{ site.baseurl }}/assets/images/25-Pedagogy.png)
+![# p]({{ site.baseurl }}/assets/images/25-Pedagogy.png){: .align-center}

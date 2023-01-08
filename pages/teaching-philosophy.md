@@ -18,7 +18,7 @@ When I was doing my placement in a forest school, I was amazed by how capable an
 
 This Indigenous worldview sets the foundation for students to develop a good relationship with our land and the people around them. It is imperative to focus on the five domains of child development, including physical, emotional, spiritual, and intellectual development. Focusing on only one area of development will prevent students from reaching their full potential and developing a sense of self.
 
-# [The learning environment should be inclusive, comfortable, and responsive]({{ site.baseurl }}/pedagogy/learning-environment/)
+# [The learning environment should be inclusive, comfortable, and responsive]({{ site.baseurl }}/pedagogy/learning-environment-should-be-inclusive-comfortable-responsive/)
 
 Teachers should create a culturally responsive classroom where students feel they are accepted for who they are and valued for where they come from.  This kind of classroom is full of laughter and smiles as students feel welcomed and comfortable. Teachers are always using positive language, and students are using kind words to each other. In an environment like this, students will feel safe to take risks and not be afraid to make mistakes.
 
@@ -31,7 +31,7 @@ Establishing trusting and caring relationships with students is my priority as a
 No matter whether students or teachers, we all need to be lifelong learners. As a student, the desire and curiosity for new things and new information should be what motivates them to pursue a better version of themselves and to become successful in the future.
 For Teachers, ongoing professional development is what makes them excellent. It is important for teachers to continue reflecting on daily teaching practice and learning relevant professional knowledge, such as educational research and teaching theory.
 
-# [Assessment should be fair and equitable to all students]({{ site.baseurl }}/pedagogy/assessment/)
+# [Assessment should be fair and equitable to all students]({{ site.baseurl }}/pedagogy/assessment-should-be-fair-equitable-to-all-students/)
 
 There are no two students who are exactly the same, so it is important for teachers to make sure that the assessment they are using fits students’ learning needs and allows the students to demonstrate what they have learned. Some students might need modified expectations, while others might need alternative expectations. All of these are based on students’ needs and abilities.
 
