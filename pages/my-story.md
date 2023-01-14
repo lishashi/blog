@@ -17,11 +17,11 @@ After graduating from high school, I decided to travel further, to explore the n
 
 So, I went to Shijiazhuang University for my undergraduate. Over the four years there, I met people from different backgrounds and from different social classes, and I become fascinated by the stories every individual carried with them. Through those stories, I became more open-minded and learned how to think from other people’s perspectives.
 
-In the fourth year, I applied to do my placement in a school located in a rural area outside of Shijiazhuang. It was through this experience that I realized how much I loved teaching and how amazing it would be to be a teacher. So, when I went back to the university, I registered myself for the teaching program. Later, I passed the teacher license examination and received my teaching certificate in History.
+In the fourth year, I applied to do my placement in a school located in a rural area outside of Shijiazhuang. It was through this experience that I realized how much I loved teaching and how amazing it would be to be a teacher. So, when I went back to the university, I registered myself for the teaching program. Later I passed a licensing exam and received my teaching certificate.
 
 ![Placement in China]({{ site.baseurl }}/assets/images/my-story-3.jpg){: .align-center}
 
-While studying the teaching program in China, I came across teaching theories such as Skinner’s behaviourist theory of learning and Vygotsky’s sociocultural theory. So I decided to go abroad to deepen my understanding of different teaching theories and approaches.  I applied for Western University in 2016 and completed my Master’s degree there.
+While studying education in China, I came across teaching theories such as Skinner’s behaviourist theory of learning and Vygotsky’s sociocultural theory. So I decided to go abroad to deepen my understanding of different teaching theories and approaches.  I applied for Western University in 2016 and completed my Master’s degree there.
 
 ![Masters degree]({{ site.baseurl }}/assets/images/my-story-4.jpg){: .align-center}
 
