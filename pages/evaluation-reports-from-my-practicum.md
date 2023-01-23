@@ -21,7 +21,8 @@ permalink: /professional-development/evaluation-reports-from-my-practicum/
 
 
 # Block C
-
+<object data="{{ site.baseurl }}/assets/files/pd-6-block-c-formative-assessment.pdf" width="1000" height="1000" type='application/pdf'></object>
+<br>
 <object data="{{ site.baseurl }}/assets/files/pd-6-2-block-c-formative-assessment.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 # Block D
