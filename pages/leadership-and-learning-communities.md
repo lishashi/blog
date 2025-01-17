@@ -27,11 +27,32 @@ gallery2:
     image_path: "/assets/images/communities-07.png"
     alt: ""
 
+gallery3:
+  - url: "/assets/images/communities-11.png"
+    image_path: "/assets/images/communities-11.png"
+    alt: ""
+  - url: "/assets/images/communities-12.png"
+    image_path: "/assets/images/communities-12.png"
+    alt: ""
+  - url: "/assets/images/communities-13.png"
+    image_path: "/assets/images/communities-13.png"
+    alt: ""
 ---
+# Community Involvement At CHPS
 
-As an educator, I have the opportunity to get involved with two extra-curricular activities during my practicum at the Kaawaate East City Public School.
+While working at Chris Hadfield Public School, I have actively contributed to the school community by organizing and leading the Language and Culture Exchange Lunch Club. Each week, I designed engaging cultural activities to deepen students' understanding of diverse cultures. Initially, the club began as an Asian affinity group, but over time, students invited friends from various cultural backgrounds. The club has since evolved into an inclusive space where students from different cultures can connect, share experiences, and build meaningful friendships.
+
+{% include gallery id="gallery3" layout="half" %}
+
+In addition, I have been actively involved in the Cross-Country Club for two school years. I run alongside the students and offer guidance to help them improve their skills. This role has allowed me to support students in setting personal goals, building resilience, and fostering a lifelong love for physical activity.
+
+Furthermore, I have collaborated with a colleague to coordinate the PALS program. Together, we planned safe and engaging activities for student leaders to facilitate with primary students during recess, promoting teamwork, leadership, and a positive school environment.
+
+![c1]({{ site.baseurl }}/assets/images/communities-14.png){: .align-center}
 
 # Assistant Teacher for the club Young Women in Action
+
+As an teacher candidate, I had the opportunity to get involved with two extra-curricular activities during my practicum at the Kaawaate East City Public School.
 
 The pictures below were taken when we were having a discussion about the difficulties and challenges girls or women encountered in life. I initiated a conversation about recognizing our strength as women and taught the whole group to make Friendship Bracelet. Through this hands-on activity, those young women demonstrated their creativity and gained confidence in themselves. The beautiful bracelets showed how amazing they were and how much they cared about each other.
 
